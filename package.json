@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "postinstall": "cd client && yarn install"
+  },
+
+  "name": "react-rails-webpack",
+  "private": true,
+  "dependencies": {}
+}
